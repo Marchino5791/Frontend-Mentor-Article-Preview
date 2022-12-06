@@ -150,9 +150,10 @@ body {
 }
 
 @media (max-width: 950px) {
-  /* html {
-    font-size: 50%;
-  } */
+  body {
+    align-items: flex-start;
+    grid-template-rows: repeat(2, min-content);
+  }
 
   .container {
     width: 85%;
