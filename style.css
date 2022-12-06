@@ -134,7 +134,7 @@ body {
   color: var(--primary-text);
 }
 
-/* mobile view */
+
 @media (max-width: 1250px) {
   /* html {
     font-size: 56.25%;
@@ -149,6 +149,8 @@ body {
   }
 }
 
+
+/* tablet view */
 @media (max-width: 950px) {
   body {
     align-items: flex-start;
@@ -172,6 +174,8 @@ body {
   }
 }
 
+
+/* mobile view */
 @media (max-width: 450px) {
   html {
     font-size: 50%;
