@@ -41,6 +41,7 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - CSS Grid
+- JavaScript
 - [Google Fonts](https://styled-components.com/) - For fonts
 
 ### What I learned
